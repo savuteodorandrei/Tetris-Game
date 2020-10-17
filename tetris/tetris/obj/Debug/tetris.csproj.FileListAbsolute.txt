@@ -1,0 +1,14 @@
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\MainWindow.baml
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\MainWindow.g.cs
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\App.g.cs
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris_MarkupCompile.cache
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris.g.resources
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris.pdb
+C:\Users\teodo\OneDrive\Desktop\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
